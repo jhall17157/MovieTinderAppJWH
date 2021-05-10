@@ -3,17 +3,12 @@ import { StyleSheet } from 'react-native';
 
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
-import Movies from "../Movies.json"
-import MovieList from '../components/MovieList.js';
+import Tinder from '../components/Tinder';
 
-export default function TabOneScreen() {
+export default function TabThreeScreen() {
   return (
     <View style={styles.container}>
-      
-      <Text style={styles.title}>Recommended for You</Text>
-      <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
-      <MovieList/>
-     
+      <Tinder/>
     </View>
   );
 }
@@ -27,8 +22,6 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 20,
     fontWeight: 'bold',
-    alignItems: 'center',
-    justifyContent: "center" 
   },
   separator: {
     marginVertical: 30,

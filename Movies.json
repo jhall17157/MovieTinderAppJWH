@@ -1,0 +1,65 @@
+{
+    "movies":[
+
+     {
+    "id": 1,
+    "title": "Man of Steel",
+    "img": "assets:/images/manofsteel.jpg",
+    "description": "Superman's origin story with a darker, realistic tone"
+    },
+    {
+        "id": 2,
+        "title": "Avengers: Endgame",
+        "img": "assets:/images/endgame.jpg",
+        "description": "The epic conclusion to Marvel's phase of movies"
+    },
+    {
+        "id": 3,
+        "title": "The Ritual",
+        "img": "assets:/images/ritual.jpg",
+        "description": "A haunting tale of 4 friends backpacking in the mountains"
+    },
+    {
+        "id": 4,
+        "title": "Mortal Kombat",
+        "img": "assets:/images/mortalkombat.jpg",
+        "description": "After Hanzo's death by Bi Han, his descendant must fight for Earthrealm's protection"
+    },
+    {
+        "id": 5,
+        "title": "Jumanji",
+        "img": "assets:/images/jumanji.jpg",
+        "description": "Four high schoolers are sucked into a game and must complete their objectives to leave"
+    },
+    {
+        "id": 6,
+        "title": "Demon Slayer",
+        "img": "assets:/images/demonslayer.jpg",
+        "description": "Tanjiro and companions are tasked with investigating the Mugen Train due to missing people"
+    },
+    {
+        "id": 7,
+        "title": "Train to Busan",
+        "img": "assets:/images/traintobusan.jpg",
+        "description": "A business man must protect his daughter from an undead horde upon a train"
+    },
+    {
+        "id": 8,
+        "title": "Joker",
+        "img": "assets:/images/joker.jpg",
+        "description": "Arthur's journey as a clown to his eventual mental snap"
+    },
+    {
+        "id": 9,
+        "title": "The Mummy",
+        "img": "assets:/images/themummy.jpg",
+        "description": "A group of misfits finds a map to an ancient treasure, but awaken a mummy while digging"
+    },
+    {
+        "id": 10,
+        "title": "Harry Potter",
+        "img": "assets:/images/harrypotter.jpg",
+        "description": "Harry's third year in school where he confronts the man who allegedly betrayed his parents"
+    }
+]
+}
